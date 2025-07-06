@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 am in mk branch
+=======
+am in jk branch
+>>>>>>> jk
